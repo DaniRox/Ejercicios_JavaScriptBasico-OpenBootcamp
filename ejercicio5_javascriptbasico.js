@@ -3,18 +3,18 @@ listaDeCompras.push("Aceite de Girasol");
 listaDeCompras.pop();
 var misPelis = [
     {
-        titulo,
-        director,
-        fecha
+        titulo: "Kung Fu Panda",
+        director: "John Stevenson",
+        fecha: 2008,
     },
     {
-        titulo,
-        director,
-        fecha
+        titulo: "El Sobreviviente",
+        director: "Peter Berg",
+        fecha: 2014,
     },
     {
-        titulo,
-        director,
-        fecha
+        titulo: "La Cabaña",
+        director: "Stuart Hazeldine",
+        fecha: 2017,
     },
 ]
